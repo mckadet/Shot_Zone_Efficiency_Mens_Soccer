@@ -1,2 +1,2 @@
-# Shot_Zone_Efficiency_Mens_Soccer
-A report of the performance, assessed by possesion termination, by zone on the field.
+# Analysis of Offensive Efficiency
+A report addressing offensive performance, assessed by possesion termination, by zone on the field for the BYU men's soccer team. BYU Soccer Presentation contains the presentation that was delivered at an annual student research conference and to the coaching staff and players. Data was collected using HUDL film, an RShiny App, and Excel and analysis was done using common statistical methods.
